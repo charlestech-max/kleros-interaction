@@ -11,7 +11,6 @@ ArbitrablePermissionList implements an arbitrator (see [ERC792](https://github.c
 - To make a request, parties have to deposit a stake and the arbitration fees.
 - In case the arbitrator refuses to rule, the item is put in the initial absent status and the balance is split equally between parties.
 
-
 ### Notes on security
 
 - In some cases we use `send` instead of `transfer` on purpose to prevent someone from blocking the contract.
