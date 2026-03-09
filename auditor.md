@@ -4,6 +4,7 @@ ArbitrablePermissionList implements an arbitrator (see [ERC792](https://github.c
 
 ### Notes
 
+
 - Anyone can post an item with a deposit.
 - If no one complains within a defined time period, the item is added to the registry.
 - Anyone can complain and also post a deposit. If someone does, a dispute is created. The winner of the dispute gets the deposit of the other party and the item is added or removed accordingly.
