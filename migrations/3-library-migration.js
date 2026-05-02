@@ -15,4 +15,4 @@ module.exports = function(deployer) {
     ExposedSortitionSumTreeFactory,
     KlerosLiquid
   ])
-}
+}
