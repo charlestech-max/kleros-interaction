@@ -5,4 +5,4 @@ CentralizedArbitrator.sol implement a centralized arbitrator as an Arbitrator co
 
 TwoPartyArbitrable.sol is an abstract contract requiring both parties to pay the arbitration fee and refunding the winning one.
 
-ArbitratedTransaction.sol is a contract allowing ether to be put in escrow, allowing the payer to finalize the transaction, the payee to reimburse part of it and the arbitrator to send the funds to the winning party in case of dispute.
+ArbitratedTransaction.sol is a contract allowing ether to be put in escrow, allowing the payer to finalize the transaction, the payee to reimburse part of it and the arbitrator to send the funds to the winning party in case of dispute.
