@@ -929,4 +929,4 @@ contract('MultipleArbitrableTokenTransaction', function(accounts) {
       })
     )
   })
-})
+})
