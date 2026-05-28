@@ -266,4 +266,4 @@ contract('ArbitrableVersioningProxy', function(accounts) {
 
     assert(ACTUAL.equals(EXPECTED))
   })
-})
+})
